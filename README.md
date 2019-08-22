@@ -1,3 +1,3 @@
 - `EmbeddingLearning` contains the source code written in Java for embedding learning of text, AST and CFG.
 - `DeepLearningModel` contains the source code written in Python for supervised deep learning of the fusion of embedding features.
-- The generated embedding features stored in {https://drive.google.com/open?id=1U_58C2__o7ULerIpLrNKhHhLOKvtcAN_}
+- The generated embedding features stored in [here](https://drive.google.com/open?id=1U_58C2__o7ULerIpLrNKhHhLOKvtcAN_)
